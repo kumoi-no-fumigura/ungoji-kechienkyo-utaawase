@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ungoji-kechienkyo-utaawase",
  "yomi": "うんごじけちえんきょうごえんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十題）",
+  "era": "永久4年（1116）8月",
+  "author": "判者 藤原基俊",
+  "desc": "雲居寺で結縁経供養の後宴に催された歌合。風・萩・苅萱・露・月・虫・霧・秋田・菊・九月尽の題で、皇后宮摂津君・源俊頼・藤原仲実らが詠み、基俊が判を加える。"
+ },
  "editions": [
   {
    "pid": "1879502",
