@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 2,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho08-ungoji-kechienkyo-0001",
@@ -464,6 +467,7 @@
   "poems": 35,
   "editions": 1,
   "updated": "2026-11-02",
-  "updated_at": "2026-11-02T14:14:30+09:00"
+  "updated_at": "2026-11-02T14:14:30+09:00",
+  "yaku": 2
  }
 }
